@@ -1,0 +1,28 @@
+{
+    "todo": [
+        {
+            "nazwaRzeczy": "projekt z aplikacji mobilnych",
+            "priorytet": "niski",
+            "data": "15.05.2024",
+            "zrealizowane": "nie"
+        },
+        {
+            "nazwaRzeczy": "projekt z aplikacji desktopowych",
+            "priorytet": "sredni",
+            "data": "15.05.2024",
+            "zrealizowane": "nie"
+        },
+        {
+            "nazwaRzeczy": "zdać maturę",
+            "priorytet": "wysoki",
+            "data": "07.05.2025",
+            "zrealizowane": "nie"
+        },
+        {
+            "nazwaRzeczy": "polecieć do Hiszpanii",
+            "priorytet": "wysoki",
+            "data": "11.06.2024",
+            "zrealizowane": "nie"
+        }
+    ]
+}
